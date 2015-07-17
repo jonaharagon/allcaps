@@ -21,3 +21,7 @@ div {
 input {
   text-transform: uppercase !important;
 }
+
+textarea {
+  text-transform: uppercase !important;
+}
