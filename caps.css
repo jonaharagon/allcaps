@@ -1,3 +1,19 @@
-body {text-transform: uppercase !important;}
-p {text-transform: uppercase !important;}
-head {text-transform: uppercase !important;}
+html {
+  text-transform: uppercase !important;
+}
+
+body {
+  text-transform: uppercase !important;
+}
+
+p {
+  text-transform: uppercase !important;
+}
+
+form {
+  text-transform: uppercase !important;
+}
+
+div {
+  text-transform: uppercase !important;
+}
