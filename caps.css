@@ -17,3 +17,7 @@ form {
 div {
   text-transform: uppercase !important;
 }
+
+input {
+  text-transform: uppercase !important;
+}
