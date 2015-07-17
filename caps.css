@@ -1,19 +1,19 @@
 html {
-  text-transform: uppercase;
+  text-transform: uppercase !important;
 }
 
 body {
-  text-transform: uppercase;
+  text-transform: uppercase !important;
 }
 
 p {
-  text-transform: uppercase;
+  text-transform: uppercase !important;
 }
 
 form {
-  text-transform: uppercase;
+  text-transform: uppercase !important;
 }
 
 div {
-  text-transform: uppercase;
+  text-transform: uppercase !important;
 }
